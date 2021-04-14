@@ -1,0 +1,1 @@
+05.delete_pod.sh

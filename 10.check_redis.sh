@@ -1,0 +1,1 @@
+02.check_redis.sh

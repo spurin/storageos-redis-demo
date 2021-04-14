@@ -1,0 +1,1 @@
+08.check_redis_persistence.sh
